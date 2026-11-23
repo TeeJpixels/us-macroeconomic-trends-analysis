@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite it and the original dataset."
+title: "U.S. Macroeconomic Trends Analysis (1959 Q1-2009 Q3)"
+authors:
+  - family-names: Akhauri
+    given-names: Teej
+type: software
+license: MIT
+references:
+  - type: dataset
+    title: "United States Macroeconomic Data, 1959 Q1-2009 Q3"
+    authors:
+      - family-names: Seabold
+        given-names: Skipper
+    url: "https://www.statsmodels.org/stable/datasets/generated/macrodata.html"
