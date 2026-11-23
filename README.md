@@ -82,7 +82,3 @@ The analysis code is released under the MIT License in this repository. The Stat
 ## Citation
 
 Seabold, S. (dataset compiler). *United States Macroeconomic Data, 1959 Q1-2009 Q3*. Data sourced primarily from FRED, Federal Reserve Bank of St. Louis, with unemployment data from the U.S. Bureau of Labor Statistics. The dataset documentation is included in the Statsmodels Datasets documentation: <https://www.statsmodels.org/stable/datasets/generated/macrodata.html>.
-
-## Suggested GitHub repository name
-
-`us-macroeconomic-trends-analysis`
